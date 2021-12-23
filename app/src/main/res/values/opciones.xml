@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="combo_dias">
+        <item>Seleccione</item>
+        <item>Hoduras(504)</item>
+        <item>USA()</item>
+        <item>Mexico()</item>
+
+    </string-array>
+
+</resources>
